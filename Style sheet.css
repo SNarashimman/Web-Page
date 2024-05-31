@@ -1,0 +1,40 @@
+h1{
+    display: flex;
+}
+nav{
+    background-color: orange;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    display: flexbox;
+
+}
+div{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    color: black;
+}
+p{
+    background-color: yellowgreen;
+    border-radius: 15px;
+    padding: 10px;
+}
+Box1{
+    color: red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+}
+img{
+    height: 100px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin:     10px;
+}
+Box1{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: block;
+}
